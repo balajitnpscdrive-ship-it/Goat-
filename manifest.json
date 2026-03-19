@@ -1,0 +1,21 @@
+{
+  "short_name": "MasterAll",
+  "name": "MasterAll TNPSC Drive",
+  "description": "Educational resource for TNPSC aspirants.",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/balajitnpscdrive-ship-it/MASTERALL/main/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/balajitnpscdrive-ship-it/MASTERALL/main/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/MASTERALL/",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff"
+}
